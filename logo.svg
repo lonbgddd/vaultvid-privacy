@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="52" x2="420" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AE2FF"/>
+      <stop offset="0.5" stop-color="#6BA7FF"/>
+      <stop offset="1" stop-color="#5868FF"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="148" y1="110" x2="352" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAFBFF"/>
+      <stop offset="1" stop-color="#CFE4FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 36L395 99V228C395 334 335 407 256 463C177 407 117 334 117 228V99L256 36Z" fill="url(#bg)"/>
+  <path d="M256 86L353 132V219C353 299 311 353 256 392C201 353 159 299 159 219V132L256 86Z" fill="#07111D" fill-opacity="0.2"/>
+  <path d="M237 145H315C334 145 350 161 350 180V251C350 270 334 286 315 286H237C218 286 202 270 202 251V180C202 161 218 145 237 145Z" fill="url(#overlay)"/>
+  <path d="M292 235L235 196V274L292 235Z" fill="#07111D"/>
+  <path d="M214 298H316C331 298 344 311 344 326V344C344 359 331 372 316 372H214C199 372 186 359 186 344V326C186 311 199 298 214 298Z" fill="#07111D" fill-opacity="0.18"/>
+  <path d="M196 175L172 196V247L196 268V175Z" fill="#EAFBFF" fill-opacity="0.9"/>
+  <path d="M324 175L348 196V247L324 268V175Z" fill="#EAFBFF" fill-opacity="0.9"/>
+  <path d="M214 146C214 127 229 112 248 112H264C283 112 298 127 298 146V170H214V146Z" fill="#EAFBFF" fill-opacity="0.9"/>
+  <circle cx="256" cy="360" r="27" fill="#EAFBFF" fill-opacity="0.9"/>
+</svg>
